@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\bin\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.exe
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\bin\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.deps.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\bin\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\bin\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\bin\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\bin\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\obj\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\obj\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\obj\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\obj\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\obj\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\obj\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\obj\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercise.Class1.Exc2\obj\Debug\netcoreapp3.1\SEDC.Excercise.Class1.Exc2.genruntimeconfig.cache

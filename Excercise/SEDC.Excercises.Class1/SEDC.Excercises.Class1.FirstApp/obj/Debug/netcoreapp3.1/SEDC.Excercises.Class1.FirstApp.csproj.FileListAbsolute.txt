@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\bin\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.exe
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\bin\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.deps.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\bin\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\bin\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\bin\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\bin\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\obj\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\obj\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\obj\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\obj\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\obj\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\obj\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\obj\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Excercise\SEDC.Excercises.Class1\SEDC.Excercises.Class1.FirstApp\obj\Debug\netcoreapp3.1\SEDC.Excercises.Class1.FirstApp.genruntimeconfig.cache
