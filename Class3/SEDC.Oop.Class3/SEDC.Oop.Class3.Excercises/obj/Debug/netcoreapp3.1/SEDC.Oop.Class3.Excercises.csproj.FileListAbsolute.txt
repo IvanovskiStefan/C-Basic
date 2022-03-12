@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.exe
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.deps.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Excercises\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Excercises.genruntimeconfig.cache

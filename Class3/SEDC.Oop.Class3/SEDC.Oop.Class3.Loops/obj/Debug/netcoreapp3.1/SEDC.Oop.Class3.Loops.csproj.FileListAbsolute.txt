@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.exe
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.deps.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Loops\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Loops.genruntimeconfig.cache

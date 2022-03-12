@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.exe
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.deps.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\bin\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\Class3\SEDC.Oop.Class3\SEDC.Oop.Class3.Arrays\obj\Debug\netcoreapp3.1\SEDC.Oop.Class3.Arrays.genruntimeconfig.cache
