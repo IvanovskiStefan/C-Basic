@@ -58,25 +58,58 @@ namespace SEDC.Oop.Class2.Excercise1
             //    double resultofBranches = (branches * numberofApples) / basket;
 
             //Console.WriteLine(result);
+            //EXCERCISE # 6
+            //string firstIntager = Console.ReadLine();
+            //string secondIntager = Console.ReadLine();
 
-            string firstIntager = Console.ReadLine();
-            string secondIntager = Console.ReadLine();
+            //int parsedFirtstIntager = int.Parse(firstIntager);
+            //int parsedSecondIntager = int.Parse(secondIntager);
 
-            int parsedFirtstIntager = int.Parse(firstIntager);
-            int parsedSecondIntager = int.Parse(secondIntager);
 
-            if (parsedFirtstIntager > parsedSecondIntager)
+
+            //if (parsedFirtstIntager > parsedSecondIntager)
+            //{
+            //    Console.WriteLine(parsedFirtstIntager + " " + "First number is biger!");
+            //}
+            //else if (parsedFirtstIntager < parsedSecondIntager)
+            //{
+            //    Console.WriteLine(parsedSecondIntager + " " + "Second number is biger!");
+            //}
+
+
+            //if (parsedFirtstIntager % 2 == 0 && parsedSecondIntager % 2 == 0)
+            //{
+            //    Console.WriteLine("The number is even");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("The number is odd");
+            //}
+
+
+            //EX7
+            Console.WriteLine("Select from the following numbers:");
+            Console.WriteLine("1.Input  for a new car");
+            Console.WriteLine("2.Input  for a new plane");
+            Console.WriteLine("3.Input  for a new bike");
+
+            string inputFrom = Console.ReadLine();
+            bool parsedInputFromConsole = int.TryParse(inputFrom, out int parsedInput);
+            switch (parsedInput)
             {
-                Console.WriteLine(parsedFirtstIntager);
-            }
-            else if (parsedFirtstIntager < parsedSecondIntager)
-            {
-                Console.WriteLine(parsedSecondIntager);
-            }
-            else if ()
-            {
-
-            }
+                case 1:
+                    Console.WriteLine("You got a new car");
+                    break;
+                case 2:
+                    Console.WriteLine("You got a new plane");
+                    break;
+                case 3:
+                    Console.WriteLine("You got a new bike");
+                    break;
+                default:
+                    Console.WriteLine("Input a correct number");
+                    break;
+            
         }
 
     }
