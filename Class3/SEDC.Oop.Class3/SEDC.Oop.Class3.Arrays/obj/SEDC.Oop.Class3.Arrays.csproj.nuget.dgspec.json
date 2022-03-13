@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\SEDC.Oop.Class3.Arrays.csproj": {}
+    "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\SEDC.Oop.Class3.Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\SEDC.Oop.Class3.Arrays.csproj": {
+    "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\SEDC.Oop.Class3.Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\SEDC.Oop.Class3.Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\SEDC.Oop.Class3.Arrays.csproj",
         "projectName": "SEDC.Oop.Class3.Arrays",
-        "projectPath": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\SEDC.Oop.Class3.Arrays.csproj",
-        "packagesPath": "C:\\Users\\stefan.ivanovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\obj\\",
+        "projectPath": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\SEDC.Oop.Class3.Arrays.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stefan.ivanovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

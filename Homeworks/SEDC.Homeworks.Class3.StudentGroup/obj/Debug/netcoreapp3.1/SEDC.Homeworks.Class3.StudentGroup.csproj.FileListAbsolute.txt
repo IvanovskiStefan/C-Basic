@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.exe
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.dll
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.pdb
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.dll
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.pdb
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.StudentGroup\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Class3.StudentGroup.genruntimeconfig.cache

@@ -58,6 +58,7 @@ namespace SEDC.Oop.Class2.Excercise1
             //    double resultofBranches = (branches * numberofApples) / basket;
 
             //Console.WriteLine(result);
+            
             //EXCERCISE # 6
             //string firstIntager = Console.ReadLine();
             //string secondIntager = Console.ReadLine();
@@ -109,9 +110,10 @@ namespace SEDC.Oop.Class2.Excercise1
                 default:
                     Console.WriteLine("Input a correct number");
                     break;
-            
-        }
 
+            }
+
+        }
     }
 }
 

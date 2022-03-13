@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Class2",
+    "\\Class2\\SEDC.Class2.Excercise\\SEDC.Oop.Class2.Excercise1",
+    "\\Class2\\SEDC.Oop.Class02",
+    "\\Class2\\SEDC.Oop.Class02\\SEDC.Oop.Class02.Variables",
+    "\\Class3",
+    "\\Class3\\SEDC.Oop.Class3",
+    "\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Arrays",
+    "\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Excercises",
+    "\\Class3\\SEDC.Oop.Class3\\SEDC.Oop.Class3.Loops"
   ],
-  "SelectedNode": "\\SEDC.Templates.sln",
+  "SelectedNode": "\\Class2\\SEDC.Oop.Class02\\SEDC.Oop.Class02.Variables\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

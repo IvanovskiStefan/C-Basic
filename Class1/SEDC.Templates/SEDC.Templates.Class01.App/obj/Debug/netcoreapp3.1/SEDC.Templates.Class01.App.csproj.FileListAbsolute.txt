@@ -12,3 +12,17 @@ C:\Users\stefan.ivanovski\Desktop\C#Basic\Class1\SEDC.Templates\SEDC.Templates.C
 C:\Users\stefan.ivanovski\Desktop\C#Basic\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.dll
 C:\Users\stefan.ivanovski\Desktop\C#Basic\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.pdb
 C:\Users\stefan.ivanovski\Desktop\C#Basic\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.exe
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.dll
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.pdb
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.dll
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.pdb
+C:\Users\Stefan\Desktop\Seavus\C#\Class1\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.genruntimeconfig.cache
