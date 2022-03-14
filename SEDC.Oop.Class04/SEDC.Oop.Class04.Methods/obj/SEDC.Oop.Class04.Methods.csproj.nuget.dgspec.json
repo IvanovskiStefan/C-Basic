@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\SEDC.Oop.Class04.Methods.csproj": {}
+    "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\SEDC.Oop.Class04.Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\SEDC.Oop.Class04.Methods.csproj": {
+    "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\SEDC.Oop.Class04.Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\SEDC.Oop.Class04.Methods.csproj",
+        "projectUniqueName": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\SEDC.Oop.Class04.Methods.csproj",
         "projectName": "SEDC.Oop.Class04.Methods",
-        "projectPath": "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\SEDC.Oop.Class04.Methods.csproj",
+        "projectPath": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\SEDC.Oop.Class04.Methods.csproj",
         "packagesPath": "C:\\Users\\stefan.ivanovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\obj\\",
+        "outputPath": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class04\\SEDC.Oop.Class04.Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stefan.ivanovski\\AppData\\Roaming\\NuGet\\NuGet.Config",

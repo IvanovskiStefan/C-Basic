@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.exe
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Dates\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Dates.genruntimeconfig.cache

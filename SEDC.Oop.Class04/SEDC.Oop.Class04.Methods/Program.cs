@@ -6,6 +6,7 @@ namespace SEDC.Oop.Class04.Methods
     {
         static void Main(string[] args)
         {
+            //ex1
             Console.WriteLine("Please enter number 1");
             string parsedInput1 = Console.ReadLine();
             bool parsedInputFromConsole = int.TryParse(parsedInput1, out int ParsedInputFromUser1);
@@ -26,7 +27,7 @@ namespace SEDC.Oop.Class04.Methods
                 Substract(ParsedInputFromUser1, ParsedInputFromUser2);
             }
 
-
+            //class
             //SayHello();
             //Sum(1, 2);
             //int result = Sum(1, 2);
@@ -36,8 +37,6 @@ namespace SEDC.Oop.Class04.Methods
             //Console.WriteLine(strResult);
 
             //Console.ReadLine();
-
-
         }
         //public static void SayHello()
         //{
@@ -68,10 +67,7 @@ namespace SEDC.Oop.Class04.Methods
         //    return str;
 
         //}
-
-
-
-
+        //ex1
         private static int Multiply(int a, int b)
 
         {

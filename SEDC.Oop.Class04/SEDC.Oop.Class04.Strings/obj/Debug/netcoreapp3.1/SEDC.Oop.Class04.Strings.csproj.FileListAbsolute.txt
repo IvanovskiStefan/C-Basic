@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.exe
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Strings\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Strings.genruntimeconfig.cache
