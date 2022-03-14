@@ -1,124 +1,92 @@
 ﻿using System;
 
-namespace SEDC.Oop.Class3.Excercises
+namespace SEDC.Oop.Class03.Arrays
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ////Exc1
-            //string input = Console.ReadLine();
-            //bool isparsedInput = int.TryParse(input, out int parsedInput);
+            int[] numbers = new int[5];
+            numbers[0] = 1;
+            numbers[1] = 2;
+            numbers[4] = 5;
 
-            ////if (!isparsedInput)
-            ////{
-            ////    Console.WriteLine("Error");
-            //}
-            //else { 
-            //for (int i = 1; i <= parsedInput; i++)
-            //{
-            //    Console.WriteLine(i);
-            //}
+            Console.WriteLine(numbers[2]);
+            Console.WriteLine(numbers[4]);
 
-            //}
+            // numbers[5] = 10;
 
-            ////Exc2
-            //string input = Console.ReadLine();
-            //bool isparsedInput = int.TryParse(input, out int parsedInput);
+            string[] names = new string[]
+            {
+                "Trajan",
+                "Vlatko",
+                "Stefan",
+                "Aneta"
+            };
 
+            // names[4] = "Bob";
 
-            //ex3
-            //string input = Console.ReadLine();
-            //bool isparsedInput = int.TryParse(input, out int parsedInput);
+            int[] numbers2 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
 
-            //if (!isparsedInput)
-            //{
-            //    Console.WriteLine("Error");
-            //}
+            bool[] booleans = new[] { true, false, true };
 
-            //else
-            //{
-
-            //string input = Console.ReadLine();
-            //bool isparsedInput = int.TryParse(input, out int parsedInput);
-
-            //for (int i = 1; i <= parsedInput; i++)
-            //{
-            //    if (i % 5 == 0 && i % 3 == 0)
-            //    {
-            //        Console.WriteLine("FizzBuzz");
-            //    }
-            //    else if (i % 3 == 0)
-            //    {
-            //        Console.WriteLine("Fizz");
-            //    }
-
-            //    else if (i % 5 == 0)
-            //    {
-            //        Console.WriteLine("Buzz");
-            //    }
-
-            //    }
-
-            ////ex 4
-
-            //string[] names = new string[]
-            //        {
-            //        "stefan",
-            //        "aneta",
-            //        "trajan",
-            //        "vlatko"
-            //        };
-
-            //bool[] booleans = { true, false, true, false, false };
+            double[] doubles = { 1.1, 1.2, 1.3 };
 
 
+            string[] names1 = new string[]
+            {
+                "Trajan",
+                "Vlatko",
+                "Stefan",
+                "Aneta"
+            };
 
+            int lenghtOfArray = names1.Length;
 
-            //double[] doubles = { 1.1, 1.2, 1.3 };
+            for (int i = 0; i < names1.Length; i++)
+            {
+                Console.WriteLine(names1[i]);
+            }
 
-            //char[] charachters = { 'a', 'b', 'v' };
+            int indexOnVlatko = Array.IndexOf(names1, "Vlatko");
+            Console.WriteLine("The index is: " + indexOnVlatko);
+            Console.WriteLine("The value is: " + names1[indexOnVlatko]);
 
-            //int[][] arrays =  { new int[2] { 2, 5 }, new int[2] { 2, 3 } };
+            Array.Resize(ref names1, names1.Length + 2);
 
-            //ex5
+            names1[4] = "Bob";
+            names1[5] = "Jill";
 
-            //int[]ArrayOfNumbers = new int[5];
-            //int sum = 0;
+            Array.Sort(names1);
 
-            //for ( int i = 0; i < ArrayOfNumbers.Length; i++ )
-            //{
-            //    string input = Console.ReadLine();
-            //    bool isparsedInput = int.TryParse(input, out int parsedInput);
+            for (int i = 0; i < names1.Length; i++)
+            {
+                Console.WriteLine(names1[i]);
+            }
 
-            //    ArrayOfNumbers[i] = parsedInput;
-            //    sum += parsedInput;
-                
+            string[] strs = new string[2];
+            Console.WriteLine("aaaa " + strs[0]);
 
-            
-            //}
-            //Console.WriteLine(sum);
+            foreach (string element in names1)
+            {
+                Console.WriteLine("Foreach with names: " + element);
+            }
 
+            foreach (string name in names1)
+            {
+                if (name == "Aneta")
+                {
+                    continue;
+                }
 
-            ////for (string numbers = 0; input < integerResults.Length; input++)
-            ////{
+                if (name == "Trajan")
+                {
+                    break;
+                }
+                Console.WriteLine(name);
+            }
 
-            ////}
-            ///
-
-
-            //ex6
-
-
+            Console.ReadLine();
         }
-
     }
-
-
-
-    
-
-
 }
-
-

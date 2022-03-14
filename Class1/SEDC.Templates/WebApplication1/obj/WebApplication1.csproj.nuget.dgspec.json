@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\Class1\\SEDC.Templates\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class1\\SEDC.Templates\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\Class1\\SEDC.Templates\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class1\\SEDC.Templates\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\Class1\\SEDC.Templates\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class1\\SEDC.Templates\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\Class1\\SEDC.Templates\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\stefan.ivanovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefan.ivanovski\\Desktop\\C#Basic\\Class1\\SEDC.Templates\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class1\\SEDC.Templates\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#\\Class1\\SEDC.Templates\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stefan.ivanovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

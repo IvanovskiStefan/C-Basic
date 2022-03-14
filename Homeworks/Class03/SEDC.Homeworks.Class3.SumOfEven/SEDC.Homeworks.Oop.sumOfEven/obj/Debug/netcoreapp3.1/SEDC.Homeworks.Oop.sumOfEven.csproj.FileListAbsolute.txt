@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.exe
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.dll
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\bin\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.pdb
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.dll
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.pdb
+C:\Users\Stefan\Desktop\Seavus\C#\Homeworks\SEDC.Homeworks.Class3.SumOfEven\SEDC.Homeworks.Oop.sumOfEven\obj\Debug\netcoreapp3.1\SEDC.Homeworks.Oop.sumOfEven.genruntimeconfig.cache
