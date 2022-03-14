@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.exe
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.deps.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\bin\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.dll
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.pdb
+C:\Users\stefan.ivanovski\Desktop\C#Basic\SEDC.Oop.Class04\SEDC.Oop.Class04.Methods\obj\Debug\netcoreapp3.1\SEDC.Oop.Class04.Methods.genruntimeconfig.cache
