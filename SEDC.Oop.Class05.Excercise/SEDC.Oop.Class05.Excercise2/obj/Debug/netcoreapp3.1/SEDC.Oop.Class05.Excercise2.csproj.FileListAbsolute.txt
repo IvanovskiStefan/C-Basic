@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.exe
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.dll
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.pdb
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.dll
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.pdb
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise2\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise2.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise.HumanExc\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise.HumanExc.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise.HumanExc\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise.HumanExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise.HumanExc\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise.HumanExc.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise.HumanExc\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise.HumanExc.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05.Excercise\SEDC.Oop.Class05.Excercise.HumanExc\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Excercise.HumanExc.csproj.CoreCompileInputs.cache

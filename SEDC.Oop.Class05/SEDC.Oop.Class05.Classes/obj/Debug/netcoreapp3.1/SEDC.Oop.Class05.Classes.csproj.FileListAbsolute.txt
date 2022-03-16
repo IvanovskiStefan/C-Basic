@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.exe
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.dll
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\bin\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.pdb
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.dll
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.pdb
+C:\Users\stefan.ivanovski\Desktop\git\SEDC.Oop.Class05\SEDC.Oop.Class05.Classes\obj\Debug\netcoreapp3.1\SEDC.Oop.Class05.Classes.genruntimeconfig.cache
