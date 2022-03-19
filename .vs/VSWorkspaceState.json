@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Homeworks",
+    "\\Homeworks\\Class02",
+    "\\Homeworks\\Class02\\SEDC.Oop.Homeworks.Class2",
+    "\\Homeworks\\Class02\\SEDC.Oop.Homeworks.Class2.Task1",
+    "\\Homeworks\\Class03",
+    "\\Homeworks\\Class03\\SEDC.Homeworks.Class3.StudentGroup",
+    "\\Homeworks\\Class03\\SEDC.Homeworks.Class3.SumOfEven",
+    "\\Homeworks\\Class03\\SEDC.Homeworks.Class3.SumOfEven\\SEDC.Homeworks.Oop.sumOfEven"
   ],
+  "SelectedNode": "\\Homeworks\\Class02\\SEDC.Oop.Homeworks.Class2\\SEDC.Oop.Homeworks.Class2.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\obj\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\obj\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\obj\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\obj\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\obj\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\bin\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).exe
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\bin\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\bin\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\bin\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\bin\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\bin\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\obj\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\obj\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class02\SEDC.Oop.Homeworks.Class2.Task1\obj\Debug\netcoreapp3.1\SEDC.Oop.Homeworks.Class2.Task1(RealCalculator).genruntimeconfig.cache
