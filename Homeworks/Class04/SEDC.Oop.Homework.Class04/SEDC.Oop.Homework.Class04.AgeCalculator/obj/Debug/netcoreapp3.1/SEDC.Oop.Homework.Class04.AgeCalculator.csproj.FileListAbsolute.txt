@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.exe
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\bin\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\SEDC.Oop.Homework.Class04\SEDC.Oop.Homework.Class04.AgeCalculator\obj\Debug\netcoreapp3.1\SEDC.Oop.Homework.Class04.AgeCalculator.genruntimeconfig.cache
