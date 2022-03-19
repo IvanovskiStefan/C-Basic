@@ -14,7 +14,7 @@ namespace SEDC.Oop.Homeworks.Class2.Task1
             string inputFromConsoleTwo = Console.ReadLine();
             bool parsedInputFromConsoleTwo = int.TryParse(inputFromConsoleTwo, out int parsedInputTwo);
 
-            Console.WriteLine(" Select + for ");
+            Console.WriteLine(" Select + for addition of the two numbers ");
             Console.WriteLine(" Select - for substracting the two numbers");
             Console.WriteLine(" Select * for multiplying the two numbers ");
             Console.WriteLine(" Select / for dividing the two numbers");
