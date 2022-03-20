@@ -30,7 +30,12 @@ namespace WhatTypeIsTheChar
                     Console.WriteLine($"The character is digit");
                 }
 
+                if(Char.IsLetter(arrayFromCons[i]) != isCharacterAlpha && 
+                    Char.IsDigit(arrayFromCons[i]) != isCharacterDigit)
+                {
+                    Console.WriteLine($"Enter a valid character");
 
+                }
 
             }
 
