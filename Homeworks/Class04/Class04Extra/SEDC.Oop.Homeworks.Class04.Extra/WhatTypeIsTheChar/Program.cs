@@ -30,11 +30,10 @@ namespace WhatTypeIsTheChar
                     Console.WriteLine($"The character is digit");
                 }
 
-                Console.WriteLine("Enter a valid input");
 
 
             }
-            
+
         }
     }
 }
