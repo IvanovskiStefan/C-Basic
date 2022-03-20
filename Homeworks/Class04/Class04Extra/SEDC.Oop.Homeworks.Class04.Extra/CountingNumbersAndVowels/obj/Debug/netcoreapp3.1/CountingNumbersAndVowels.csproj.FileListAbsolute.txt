@@ -1,0 +1,13 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\bin\Debug\netcoreapp3.1\CountingNumbersAndVowels.exe
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\bin\Debug\netcoreapp3.1\CountingNumbersAndVowels.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\bin\Debug\netcoreapp3.1\CountingNumbersAndVowels.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\bin\Debug\netcoreapp3.1\CountingNumbersAndVowels.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\bin\Debug\netcoreapp3.1\CountingNumbersAndVowels.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\bin\Debug\netcoreapp3.1\CountingNumbersAndVowels.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.genruntimeconfig.cache

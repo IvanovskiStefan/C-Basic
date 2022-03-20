@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{5F6255A3-6369-41CD-90B5-9FCC10DED380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{5F6255A3-6369-41CD-90B5-9FCC10DED380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestValue", "GreatestValue\GreatestValue.csproj", "{0F3920D3-2DD1-46D4-942C-2E5F86D16F3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatestValue", "GreatestValue\GreatestValue.csproj", "{0F3920D3-2DD1-46D4-942C-2E5F86D16F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingNumbersAndVowels", "CountingNumbersAndVowels\CountingNumbersAndVowels.csproj", "{28F7BF46-EB34-40ED-B160-F61C5E16AD6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0F3920D3-2DD1-46D4-942C-2E5F86D16F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F3920D3-2DD1-46D4-942C-2E5F86D16F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F3920D3-2DD1-46D4-942C-2E5F86D16F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F7BF46-EB34-40ED-B160-F61C5E16AD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F7BF46-EB34-40ED-B160-F61C5E16AD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F7BF46-EB34-40ED-B160-F61C5E16AD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F7BF46-EB34-40ED-B160-F61C5E16AD6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
