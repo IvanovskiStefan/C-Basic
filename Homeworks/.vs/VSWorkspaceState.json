@@ -1,11 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Class03",
+    "\\Class03\\SEDC.Homeworks.Class3.StudentGroup",
     "\\Class04",
     "\\Class04\\Class04Extra",
+    "\\Class04\\Class04Extra\\SEDC.Oop.Homeworks.Class04.Extra",
+    "\\Class04\\Class04Extra\\SEDC.Oop.Homeworks.Class04.Extra\\UpperToLowerViceVersa",
     "\\Class04\\SEDC.Oop.Homework.Class04",
     "\\Class04\\SEDC.Oop.Homework.Class04\\SEDC.Oop.Homework.Class04.AgeCalculator"
   ],
-  "SelectedNode": "\\Class04\\SEDC.Oop.Homework.Class04\\SEDC.Oop.Homework.Class04.AgeCalculator\\Program.cs",
+  "SelectedNode": "\\Class04\\Class04Extra\\SEDC.Oop.Homeworks.Class04.Extra\\UpperToLowerViceVersa\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

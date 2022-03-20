@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\bin\Debug\netcoreapp3.1\WhatTypeIsTheChar.exe
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\bin\Debug\netcoreapp3.1\WhatTypeIsTheChar.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\bin\Debug\netcoreapp3.1\WhatTypeIsTheChar.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\bin\Debug\netcoreapp3.1\WhatTypeIsTheChar.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\bin\Debug\netcoreapp3.1\WhatTypeIsTheChar.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\bin\Debug\netcoreapp3.1\WhatTypeIsTheChar.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\obj\Debug\netcoreapp3.1\WhatTypeIsTheChar.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\obj\Debug\netcoreapp3.1\WhatTypeIsTheChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\obj\Debug\netcoreapp3.1\WhatTypeIsTheChar.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\obj\Debug\netcoreapp3.1\WhatTypeIsTheChar.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\obj\Debug\netcoreapp3.1\WhatTypeIsTheChar.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\obj\Debug\netcoreapp3.1\WhatTypeIsTheChar.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\obj\Debug\netcoreapp3.1\WhatTypeIsTheChar.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\WhatTypeIsTheChar\obj\Debug\netcoreapp3.1\WhatTypeIsTheChar.genruntimeconfig.cache
