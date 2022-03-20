@@ -18,12 +18,11 @@ namespace RasingIntegers
         }
         public static void NumbersToBeRaised(int parsedNumber1, int parsedNumber2)
         {
-            int counter = 1;
-            for (int i = 0; i < parsedNumber2; i++)
-            {
-                counter = counter * parsedNumber1;
-            }
-            Console.WriteLine( $"The number : {parsedNumber1}, raised by {parsedNumber2} is : {counter}"); 
+            int sum = 0;
+            sum = (int)Math.Pow(parsedNumber1, parsedNumber2);
+            Console.WriteLine($"The number : {parsedNumber1}, raised by {parsedNumber2} is : {sum}");
+
+
         }
 
     }  
