@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Homeworks",
+    "\\Homeworks\\Class04",
+    "\\Homeworks\\Class04\\Class04Extra",
+    "\\Homeworks\\Class04\\Class04Extra\\SEDC.Oop.Homeworks.Class04.Extra"
   ],
-  "SelectedNode": "\\Homeworks",
+  "SelectedNode": "\\Homeworks\\Class04\\Class04Extra\\SEDC.Oop.Homeworks.Class04.Extra\\SEDC.Oop.Homeworks.Class04.Extra.sln",
   "PreviewInSolutionExplorer": false
 }
