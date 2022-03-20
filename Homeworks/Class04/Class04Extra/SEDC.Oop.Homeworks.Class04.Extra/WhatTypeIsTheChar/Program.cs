@@ -19,23 +19,23 @@ namespace WhatTypeIsTheChar
                 bool isCharacterAlpha = true;
                 bool isCharacterDigit = true;
 
-                if (Char.IsLetter(arrayFromCons[i]) == isCharacterAlpha)
+                if (Char.IsLetter(arrayFromCons[i]) != isCharacterAlpha &&
+                    Char.IsDigit(arrayFromCons[i]) != isCharacterDigit)
+                {
+                    Console.WriteLine($"Enter a valid character");
+
+                } 
+                else if (Char.IsLetter(arrayFromCons[i]) == isCharacterAlpha)
                 {
                     Console.WriteLine($"The character is alphabet");
-                } 
-                
+                }            
                 else if (Char.IsDigit(arrayFromCons[i]) == isCharacterDigit)
                 
                 {
                     Console.WriteLine($"The character is digit");
                 }
 
-                if(Char.IsLetter(arrayFromCons[i]) != isCharacterAlpha && 
-                    Char.IsDigit(arrayFromCons[i]) != isCharacterDigit)
-                {
-                    Console.WriteLine($"Enter a valid character");
-
-                }
+                
 
             }
 
