@@ -11,3 +11,4 @@ C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.H
 C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.dll
 C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.pdb
 C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\CountingNumbersAndVowels\obj\Debug\netcoreapp3.1\CountingNumbersAndVowels.csproj.AssemblyReference.cache

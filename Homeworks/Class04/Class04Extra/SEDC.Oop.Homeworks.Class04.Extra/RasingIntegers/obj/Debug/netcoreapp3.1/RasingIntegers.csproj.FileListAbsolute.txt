@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\bin\Debug\netcoreapp3.1\RasingIntegers.exe
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\bin\Debug\netcoreapp3.1\RasingIntegers.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\bin\Debug\netcoreapp3.1\RasingIntegers.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\bin\Debug\netcoreapp3.1\RasingIntegers.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\bin\Debug\netcoreapp3.1\RasingIntegers.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\bin\Debug\netcoreapp3.1\RasingIntegers.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\obj\Debug\netcoreapp3.1\RasingIntegers.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\obj\Debug\netcoreapp3.1\RasingIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\obj\Debug\netcoreapp3.1\RasingIntegers.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\obj\Debug\netcoreapp3.1\RasingIntegers.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\obj\Debug\netcoreapp3.1\RasingIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\obj\Debug\netcoreapp3.1\RasingIntegers.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\obj\Debug\netcoreapp3.1\RasingIntegers.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\RasingIntegers\obj\Debug\netcoreapp3.1\RasingIntegers.genruntimeconfig.cache
