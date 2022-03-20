@@ -26,12 +26,12 @@ namespace Palindrome
             {   //&& normal.ToString().ToLower() != reversed.ToString().ToLower() uste edna proverka zosto palindormot ako e napisan
                 //so prvata bukva golema booleanot izlagase false sekogas, a zborot e palindrom
                  
-                if (normal[i] != reversed[i] && normal.ToString().ToLower() != reversed.ToString().ToLower())
+                if (normal[i] != reversed[i] && normal[i].ToString().ToLower() != reversed[i].ToString().ToLower())
                 {
                    
                     palindrome = false;
                 }
-                
+
 
             }
             Console.WriteLine($"Is the word a palindrome? : {palindrome}");
