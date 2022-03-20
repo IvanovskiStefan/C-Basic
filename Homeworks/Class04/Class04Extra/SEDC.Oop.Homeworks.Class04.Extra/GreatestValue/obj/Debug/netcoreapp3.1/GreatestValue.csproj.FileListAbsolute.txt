@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\bin\Debug\netcoreapp3.1\GreatestValue.exe
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\bin\Debug\netcoreapp3.1\GreatestValue.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\bin\Debug\netcoreapp3.1\GreatestValue.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\bin\Debug\netcoreapp3.1\GreatestValue.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\bin\Debug\netcoreapp3.1\GreatestValue.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\bin\Debug\netcoreapp3.1\GreatestValue.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\obj\Debug\netcoreapp3.1\GreatestValue.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\obj\Debug\netcoreapp3.1\GreatestValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\obj\Debug\netcoreapp3.1\GreatestValue.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\obj\Debug\netcoreapp3.1\GreatestValue.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\obj\Debug\netcoreapp3.1\GreatestValue.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\obj\Debug\netcoreapp3.1\GreatestValue.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\obj\Debug\netcoreapp3.1\GreatestValue.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\GreatestValue\obj\Debug\netcoreapp3.1\GreatestValue.genruntimeconfig.cache

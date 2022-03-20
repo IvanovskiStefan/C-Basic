@@ -1,0 +1,14 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\Homeworks\Class04\Class04Extra\SEDC.Oop.Homeworks.Class04.Extra\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csproj.AssemblyReference.cache
