@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SEDC.Oop.Class06.NumberStats
 {
-    class infoModel
+    class InfoModel
     {
         public bool IsPositive { get; set; }
         public bool IsOddM { get; set; }
@@ -12,7 +12,7 @@ namespace SEDC.Oop.Class06.NumberStats
 
         public double Num { get; set; }
 
-        public infoModel(double num)
+        public InfoModel(double num)
         {
             Num = num;
         }
