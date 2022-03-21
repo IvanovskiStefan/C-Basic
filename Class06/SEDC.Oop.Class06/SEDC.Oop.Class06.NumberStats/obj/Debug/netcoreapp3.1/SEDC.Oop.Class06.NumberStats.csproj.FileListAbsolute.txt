@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\bin\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.exe
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\bin\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\bin\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\bin\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\bin\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\bin\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\obj\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\obj\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\obj\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\obj\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\obj\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\obj\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\obj\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\Class06\SEDC.Oop.Class06\SEDC.Oop.Class06.NumberStats\obj\Debug\netcoreapp3.1\SEDC.Oop.Class06.NumberStats.genruntimeconfig.cache
