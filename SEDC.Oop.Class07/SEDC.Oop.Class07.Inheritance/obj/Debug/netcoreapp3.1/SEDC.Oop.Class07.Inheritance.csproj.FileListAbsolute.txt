@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.exe
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Inheritance\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Inheritance.genruntimeconfig.cache
