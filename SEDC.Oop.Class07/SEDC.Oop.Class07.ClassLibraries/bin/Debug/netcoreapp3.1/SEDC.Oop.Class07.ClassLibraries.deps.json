@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Oop.Class07.ClassLibraries/1.0.0": {
+        "dependencies": {
+          "SEDC.Oop.Class07.Models": "1.0.0",
+          "SEDC.Oop.Class07.Services": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Oop.Class07.ClassLibraries.dll": {}
+        }
+      },
+      "SEDC.Oop.Class07.Models/1.0.0": {
+        "runtime": {
+          "SEDC.Oop.Class07.Models.dll": {}
+        }
+      },
+      "SEDC.Oop.Class07.Services/1.0.0": {
+        "dependencies": {
+          "SEDC.Oop.Class07.Models": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Oop.Class07.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Oop.Class07.ClassLibraries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Oop.Class07.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Oop.Class07.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

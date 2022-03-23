@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.exe
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Enumerations\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Enumerations.genruntimeconfig.cache

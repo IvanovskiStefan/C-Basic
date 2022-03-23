@@ -1,0 +1,10 @@
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\bin\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class07\SEDC.Oop.Class07.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class07.Models.pdb
