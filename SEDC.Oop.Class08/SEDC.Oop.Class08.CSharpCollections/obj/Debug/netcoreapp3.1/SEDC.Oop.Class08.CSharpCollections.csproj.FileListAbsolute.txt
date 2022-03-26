@@ -1,0 +1,14 @@
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.exe
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.deps.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.runtimeconfig.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.runtimeconfig.dev.json
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\bin\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.csproj.AssemblyReference.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.AssemblyInfoInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.AssemblyInfo.cs
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.csproj.CoreCompileInputs.cache
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.dll
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.pdb
+C:\Users\stefan.ivanovski\Desktop\git\C-Basic\SEDC.Oop.Class08\SEDC.Oop.Class08.CSharpCollections\obj\Debug\netcoreapp3.1\SEDC.Oop.Class08.CSharpCollections.genruntimeconfig.cache

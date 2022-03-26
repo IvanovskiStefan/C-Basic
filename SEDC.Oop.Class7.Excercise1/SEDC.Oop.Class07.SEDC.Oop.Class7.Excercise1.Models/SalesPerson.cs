@@ -52,6 +52,7 @@ namespace SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models
             }
 
             return bonus;
+       
         }
        
     }

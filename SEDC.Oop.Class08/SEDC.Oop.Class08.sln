@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class08.InheritanceApp", "SEDC.Oop.Class08.InheritanceApp\SEDC.Oop.Class08.InheritanceApp.csproj", "{C92D7C70-BC28-4C48-AD36-11F4DEA5D774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class08.CSharpCollections", "SEDC.Oop.Class08.CSharpCollections\SEDC.Oop.Class08.CSharpCollections.csproj", "{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92D7C70-BC28-4C48-AD36-11F4DEA5D774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92D7C70-BC28-4C48-AD36-11F4DEA5D774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92D7C70-BC28-4C48-AD36-11F4DEA5D774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92D7C70-BC28-4C48-AD36-11F4DEA5D774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25ED75F2-B3C0-4D0D-8947-B93A23C68554}
+	EndGlobalSection
+EndGlobal
