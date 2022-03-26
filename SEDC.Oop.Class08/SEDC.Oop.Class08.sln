@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class08.Inheritanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class08.CSharpCollections", "SEDC.Oop.Class08.CSharpCollections\SEDC.Oop.Class08.CSharpCollections.csproj", "{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class08.Excercises", "SEDC.Oop.Class08.Excercises\SEDC.Oop.Class08.Excercises.csproj", "{1AB88164-E859-461C-9302-604698B72DF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F1FA529-E2E4-4405-BD3D-5C15FAD71FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB88164-E859-461C-9302-604698B72DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB88164-E859-461C-9302-604698B72DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB88164-E859-461C-9302-604698B72DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB88164-E859-461C-9302-604698B72DF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
