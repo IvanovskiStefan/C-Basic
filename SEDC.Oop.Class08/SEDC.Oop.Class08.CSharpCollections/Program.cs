@@ -97,6 +97,8 @@ namespace SEDC.Oop.Class08.CSharpCollections
             Console.ReadLine();
         }
 
+
+
         public static void GoThruCollection(IEnumerable collecton, string name)
         {
 
