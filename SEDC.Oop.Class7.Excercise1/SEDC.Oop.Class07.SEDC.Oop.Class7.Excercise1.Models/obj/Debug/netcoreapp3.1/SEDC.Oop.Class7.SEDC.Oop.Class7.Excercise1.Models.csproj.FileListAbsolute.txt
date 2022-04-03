@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.SEDC.Oop.Class7.Excercise1.Models.pdb

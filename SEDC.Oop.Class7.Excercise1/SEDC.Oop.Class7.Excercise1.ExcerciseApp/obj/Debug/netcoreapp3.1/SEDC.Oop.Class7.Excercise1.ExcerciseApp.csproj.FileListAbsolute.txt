@@ -1,0 +1,13 @@
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.exe
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.deps.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.runtimeconfig.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\bin\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.dll
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.pdb
+C:\Users\Stefan\Desktop\Seavus\C#Basic\SEDC.Oop.Class7.Excercise1\SEDC.Oop.Class7.Excercise1.ExcerciseApp\obj\Debug\netcoreapp3.1\SEDC.Oop.Class7.Excercise1.ExcerciseApp.genruntimeconfig.cache

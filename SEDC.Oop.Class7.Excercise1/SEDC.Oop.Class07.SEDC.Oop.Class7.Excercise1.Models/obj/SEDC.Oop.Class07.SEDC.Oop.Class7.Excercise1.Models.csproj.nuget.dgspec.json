@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.csproj": {}
+    "C:\\Users\\Stefan\\Desktop\\Seavus\\C#Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.csproj": {
+    "C:\\Users\\Stefan\\Desktop\\Seavus\\C#Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.csproj",
         "projectName": "SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models",
-        "projectPath": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.csproj",
-        "packagesPath": "C:\\Users\\stefan.ivanovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\obj\\",
+        "projectPath": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stefan.ivanovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

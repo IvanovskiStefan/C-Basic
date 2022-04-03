@@ -3,6 +3,7 @@ using SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models.Enums;
 
 namespace SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models
 {
@@ -12,19 +13,17 @@ namespace SEDC.Oop.Class07.SEDC.Oop.Class7.Excercise1.Models
 
 
         
-        public SalesPerson()
+        //public SalesPerson()
         
-        {
-            Role = Role.Sales;
-            Salary = 500;
+        //{
+        //    Role = Role;
+        //    Salary = 500;
 
-        }
-        public SalesPerson( string firstName, string lastName, Role role, double salary)
+        //}
+        public SalesPerson( string firstName, string lastName, double salary = 500)
+            :base(firstName,lastName,Role.Sales, salary)
         {
-            FirstName = firstName;
-            LastName = lastName;
-            Role = role;
-            Salary = salary;
+            
         }
 
         public void  AddSuccessRevenue( double value)

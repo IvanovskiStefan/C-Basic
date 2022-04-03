@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\stefan.ivanovski\\.nuget\\packages\\": {}
+    "C:\\Users\\Stefan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class7.Excercise1.ExcerciseApp\\SEDC.Oop.Class7.Excercise1.ExcerciseApp.csproj",
+      "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class7.Excercise1.ExcerciseApp\\SEDC.Oop.Class7.Excercise1.ExcerciseApp.csproj",
       "projectName": "SEDC.Oop.Class7.Excercise1.ExcerciseApp",
-      "projectPath": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class7.Excercise1.ExcerciseApp\\SEDC.Oop.Class7.Excercise1.ExcerciseApp.csproj",
-      "packagesPath": "C:\\Users\\stefan.ivanovski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stefan.ivanovski\\Desktop\\git\\C-Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class7.Excercise1.ExcerciseApp\\obj\\",
+      "projectPath": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class7.Excercise1.ExcerciseApp\\SEDC.Oop.Class7.Excercise1.ExcerciseApp.csproj",
+      "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stefan\\Desktop\\Seavus\\C#Basic\\SEDC.Oop.Class7.Excercise1\\SEDC.Oop.Class7.Excercise1.ExcerciseApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\stefan.ivanovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
